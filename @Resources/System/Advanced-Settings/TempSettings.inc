@@ -4,7 +4,9 @@ showTempTitle=1
 showCoreTemps=2
 showCpuTempGraph=1
 showGpuTemps=1
+showGpuTempGraph=1
 showWaterTemps=1
+showWaterTempGraph=1
 
 ; ===== HWiNFO =====
 
