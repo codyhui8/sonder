@@ -8,6 +8,8 @@ showGpuTempGraph=1
 showWaterTemps=1
 showWaterTempGraph=1
 
+fanMaxSpeed=1700
+
 ; ===== HWiNFO =====
 
 ; 
@@ -17,3 +19,7 @@ showWaterTempGraph=1
 HWiNFO-WaterTemperature-SensorId=0xf00aa600
 HWiNFO-WaterTemperature-SensorInstance=0x0
 HWiNFO-WaterTemperature-EntryId=0x1000000
+; Fan Speed [HWiNFO-AquacomputerQuadro-FanSpeed]
+HWiNFO-FanSpeed-SensorId=0xf00aa600
+HWiNFO-FanSpeed-SensorInstance=0x0
+HWiNFO-FanSpeed-EntryId=0x3000001
